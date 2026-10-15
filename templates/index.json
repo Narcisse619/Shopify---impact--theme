@@ -15,8 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/NEW_Homepage_Desktop-_TOP_BANNER_copy_3_1900x_60b8e470-f148-4a14-9d1c-06303dd444ca.webp",
-            "mobile_image": "shopify://shop_images/NEW_Homepage_Mobile-_TOP_BANNER_copy_480x_0dddeb6a-a489-48d3-bb09-e4d01d98baff.webp",
+            "image": "shopify://shop_images/92a17506-4ba6-4a5a-8f65-1a1175c31a16.png",
+            "mobile_image": "shopify://shop_images/346754da-eecc-48e2-995a-6771d8550354.png",
             "content_max_width": 640,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -137,7 +137,6 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/beauty-natural-2-middle.jpg",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
