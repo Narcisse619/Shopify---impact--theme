@@ -50,98 +50,30 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
+    "featured_collection_WLGmqU": {
+      "type": "featured-collection",
+      "name": "Featured collection",
       "settings": {
+        "collection": "frontpage",
+        "products": [],
         "full_width": true,
-        "text": "Aloe Vera + vitamina E –  Formulă hidratantă, care nu usucă",
-        "text_size": "xsmall",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
+        "subheading": "",
+        "title": "Nos produits",
+        "content": "",
+        "link_url": "",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "text_gradient": ""
-      }
-    },
-    "rich_text_xFGCyf": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_beh4zU": {
-          "type": "subheading",
-          "settings": {
-            "text": "Revoluționează-ți experiența la ruj!"
-          }
-        },
-        "heading_XjtBfc": {
-          "type": "heading",
-          "settings": {
-            "text": "Rezistență întreaga zi, ca un tatuaj de culoare.",
-            "heading_tag": "h3",
-            "text_color": "",
-            "gradient": ""
-          }
-        },
-        "richtext_6y8XLR": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>Tehnologia noastră brevetată<em>Liquid Blading</em>infuzează pigmenții în stratul superior al buzelor, apoi îi sigilează, astfel încât culoarea să nu se estompeze sau să se transfere ore în șir.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_beh4zU",
-        "heading_XjtBfc",
-        "richtext_6y8XLR"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "image-with-text-overlay": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "Laxo Lip Stain",
-            "heading_tag": "h1"
-          }
-        },
-        "1664424230c4756b0e-2": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p><br/>Este noua generație de produse pentru buze. Formula sa peel-off oferă culoare intensă și de lungă durată, în timp ce hidratează și îngrijește buzele.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-0",
-        "1664424230c4756b0e-1",
-        "1664424230c4756b0e-2"
-      ],
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "md",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "heading_color": "",
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "press": {
@@ -198,9 +130,7 @@
   },
   "order": [
     "slideshow",
-    "scrolling-text",
-    "rich_text_xFGCyf",
-    "image-with-text-overlay",
+    "featured_collection_WLGmqU",
     "press"
   ]
 }
